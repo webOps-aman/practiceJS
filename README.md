@@ -2,3 +2,4 @@
 |---------|------------------|
 | 1       | 1_number_methods |
 | 2       | 2_math_methods |
+| 3       | 3_promise |
