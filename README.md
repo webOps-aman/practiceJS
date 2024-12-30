@@ -3,3 +3,4 @@
 | 1       | 1_number_methods |
 | 2       | 2_math_methods |
 | 3       | 3_promise |
+| 4       | 4_rest_operator |
