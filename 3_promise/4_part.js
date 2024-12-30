@@ -23,3 +23,6 @@ promiseFour
 .catch(function(error){
     console.log(error)
 })
+.finally(function(){
+    console.log("the promise is either solve or rejected")
+});
